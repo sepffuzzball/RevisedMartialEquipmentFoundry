@@ -10,5 +10,5 @@
   "manifest": "https://raw.githubusercontent.com/sepffuzzball/RevisedMartialEquipmentFoundry/main/module.json",
   "download": "https://github.com/sepffuzzball/RevisedMartialEquipmentFoundry/archive/main.zip",
   "minimumCoreVersion": "10.282",
-  "compatibleCoreVersion": "10",
+  "compatibleCoreVersion": "10"
 }
