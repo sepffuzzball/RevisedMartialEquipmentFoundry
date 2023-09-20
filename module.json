@@ -11,8 +11,4 @@
   "download": "https://github.com/sepffuzzball/RevisedMartialEquipmentFoundry/archive/main.zip",
   "minimumCoreVersion": "10.282",
   "compatibleCoreVersion": "10",
-  "compatibility": {
-    "minimum": "10.282",
-    "verified": 11
-  },
 }
